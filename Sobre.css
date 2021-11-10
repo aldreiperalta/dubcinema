@@ -1,0 +1,122 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 421px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 800px;
+  min-height: 397px;
+  background-image: url("images/d08b6ff0ee67868f89735656f56128dd869c67ff8b931c80f74c3410497b31d8f8361bab9f876ebc0056d59a19de0a9dae253cc067b6b28ee24652_1280.png");
+  background-position: 50% 50%;
+  margin: 9px auto 0 -17px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 40px;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1.9;
+  font-size: 1.125rem;
+  margin: -263px 15px 0 720px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 3.75rem;
+  margin: -263px -275px 0 735px;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  margin: 9px 217px 60px 680px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 535px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 635px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 117px;
+    margin-left: 580px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    width: 720px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 315px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 525px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 7px;
+    margin-left: 470px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 135px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 435px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 297px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 97px;
+  }
+}
